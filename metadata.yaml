@@ -1,4 +1,8 @@
 _repo: Sara-a-Princess-The-Story-of-a-Noble-Girl_6334
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Newberry, Fannie E. (Fannie Ellsworth)
@@ -17,6 +21,8 @@ description: Sairay! Sairay! The high, petulant voice rose shrilly through the s
   books agin?" "Yes," said Sara; "but I'll come," rising with a sigh, and care-fully
   slipping a bit of paper between the leaves of her book, before she laid it on the
   rough board shelf at one side of the little garret room.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6334#Sara-a-Princess-The-Story-of-a-Noble-Girl
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
